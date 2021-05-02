@@ -1,1 +1,1 @@
-# dgaweda_python
+# Studies Project UG Dariusz Gaweda
